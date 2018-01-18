@@ -7,14 +7,14 @@
     "summary": "Odoo 11 Silent Material Theme",
     "version": "11.0.1.0.2",
     "category": "Themes/Backend",
-    "website": "http://www.silentinfotech.com",
+    "website": "https://www.silentinfotech.com",
 	"description": """
 		Silent Backend theme for Odoo 11.0 community edition.
     """,
 	'images':[
         'images/screen.png'
 	],
-    "author": "Silent",
+    "author": "Silentinfotech LLP",
     "license": "LGPL-3",
     "installable": True,
     "depends": [
