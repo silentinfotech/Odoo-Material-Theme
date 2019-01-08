@@ -5,7 +5,7 @@
 {
     "name": "Silent Material Theme",
     "summary": "Odoo 11 Silent Material Theme",
-    "version": "11.0.1.0.2",
+    "version": "11.0.1.0.3",
     "category": "Themes/Backend",
     "website": "https://www.silentinfotech.com",
 	"description": """
