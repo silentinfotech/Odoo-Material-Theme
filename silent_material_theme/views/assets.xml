@@ -12,6 +12,7 @@
 			<xpath expr=".">
 				<link rel="stylesheet" href="/silent_material_theme/static/src/less/variables.less"/>
 				<link rel="stylesheet" href="/silent_material_theme/static/src/less/style.less"/>
+				<link rel="stylesheet" href="/silent_material_theme/static/src/less/fields_extra.less"/>
 			</xpath>
 		</template>
     </data>
